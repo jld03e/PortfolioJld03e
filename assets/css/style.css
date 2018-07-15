@@ -35,7 +35,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: #253498;
 }
 
 h1 {
@@ -58,8 +58,8 @@ h3 {
   width: 100%;
   margin: 0 0 30px;
   overflow: auto;
-  color: #fff;
-  background: #fff;
+  color: #ffffff7f;
+  background: #ffffff7f;
   border-bottom: 2px solid #ccc;
 }
 
@@ -67,19 +67,20 @@ h3 {
   float: left;
   width: 250px;
   height: 90px;
-  font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 30px;
+  font-family: 'Coda Caption', sans-serif;
+  font-size: 20px;
   font-weight: 700;
   line-height: 90px;
   color: #fff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: #253498;
 }
 
 nav {
   float: right;
   margin-top: 25px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 nav a {
@@ -106,7 +107,7 @@ footer {
   color: #ccc;
   text-align: center;
   background: #666;
-  border-top: 8px solid #4aaaa5;
+  border-top: 8px solid #253498;
   height: 50px;
 }
 
@@ -122,6 +123,7 @@ h3, h2 {
 #main-container {
   padding-top: 130px;
   min-height: calc(100vh - 70px);
+  font-family: 'Montserrat', sans-serif;
 }
 
 .main-section {
@@ -164,7 +166,7 @@ h3, h2 {
   line-height: 30px;
   color: #fff;
   text-align: center;
-  background: #4aaaa5;
+  background: #253498;
   border-bottom: 0;
 }
 
@@ -212,7 +214,7 @@ input[type=submit] {
   font-size: 18px;
   color: #fff;
   cursor: pointer;
-  background: #4aaaa5;
+  background: #253498;
   border: 0 none;
 }
 
